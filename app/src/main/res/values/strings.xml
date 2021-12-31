@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moview</string>
+    <string name="title">Title</string>
+    <string name="img_poster">Poster</string>
+    <string name="realease">Realease</string>
+    <string name="realease_genre">Realease | Genre</string>
+    <string name="description">Description</string>
+    <string name="description_detail">Description Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
